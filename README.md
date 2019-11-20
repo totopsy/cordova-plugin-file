@@ -1,3 +1,13 @@
+# DESCRIPTION 
+This is a clone version of git remote add origin https://github.com/apache/cordova-plugin-file.git
+The HEAD refers to 6.0.1 version 
+
+**Custom Modifications**
+Remove WRITE_EXTERNAL_STORAGRE permission from 'plugin.xml'
+
+Below the offcial Readme
+
+
 ---
 title: File
 description: Read/write files on the device.
